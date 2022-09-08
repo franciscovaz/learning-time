@@ -13,3 +13,8 @@
 
 * Data Transfer Objects (**DTO's**): A data structure is a class with public variables and no functions. This is a DTO.
 * **Objects** expose behaviour and hide data... **Data structure** expose data and have no significant behaviour.
+
+08/09/22 (pg. 103-112)
+
+* Instead of experimenting and trying out the new stuff in our production code, we could write some tests to explore our understanding of the third-party code. - Learning tests.
+* It's better to depend on something you control than on something you don't control, lest it end up controlling you.
