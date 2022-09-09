@@ -18,3 +18,7 @@
 
 * Instead of experimenting and trying out the new stuff in our production code, we could write some tests to explore our understanding of the third-party code. - Learning tests.
 * It's better to depend on something you control than on something you don't control, lest it end up controlling you.
+
+09/09/22 
+
+* Review
