@@ -22,3 +22,10 @@
 09/09/22 
 
 * Review
+
+13/09/22 (pg. 121-135)
+
+* Test code is just as important as production code... It must be kept as clean as production code.
+* Single concept per Test
+* F.I.R.S.T : Fast, Independent, Repeatable, Self-Validating, Timely.
+* Tests preserve and enhance the flexibility, maintainability, and reusability of the production code.
