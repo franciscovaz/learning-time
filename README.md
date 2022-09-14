@@ -29,3 +29,11 @@
 * Single concept per Test
 * F.I.R.S.T : Fast, Independent, Repeatable, Self-Validating, Timely.
 * Tests preserve and enhance the flexibility, maintainability, and reusability of the production code.
+
+
+14/09/22 (pg. 135-151)
+
+* There is seldom a good reason to have a public variable.
+* Sometimes we need to make a variable or utility function protected so that it can be accessed by a test.
+* The Single Responsability Principle (SRP) states that a class or module should have one, and only one, reason to change.
+* SRP is one of the more important concept in OO design.
