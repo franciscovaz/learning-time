@@ -43,6 +43,18 @@
 
 * 
 
+19/09/22 (pg. 171-176)
+
+* A design it's 'simple' if it follos these rulles:
+  - Runs all the tests
+  - Contains no duplication
+  - Expresses the intent of the programmer
+  - Minimizes the number of classes and methods
+* Writting tests leads to better designs
+* So take a little pride in your workmanship... Just take care of what you've created. Care is a precious resource.
+
+
+
 
 
 
