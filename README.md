@@ -54,6 +54,14 @@
 * So take a little pride in your workmanship... Just take care of what you've created. Care is a precious resource.
 
 
+20/09/22 (pg. 177-191)
+
+* Concurrency can sometimes improve performance, but only when there is a lot of wait time that can be shared between multiple threads or multiple processors.
+* A good way to avoid shared data is to avoid sharing the data in the first place. In some situations it is possible to copy objects and treat them as read-only.
+* Attempt to partition data into independent subsets than can be operated on by independent threads, possibly in different processors.
+* First and foremost, follow the Single Responsability Principle.
+
+
 
 
 
