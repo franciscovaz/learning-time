@@ -62,6 +62,22 @@
 * First and foremost, follow the Single Responsability Principle.
 
 
+23/09/22 (pg. 193-250)
+
+* Successive Refinement:
+  - To write clean code, you must first write dirty code and then clean it
+  - Test-Driven Development. One of the central doctrines of this approach is to keep the system running at all times.
+  - Refactoring is a lot like solving a Rubik's cube. There are a lots of little steps required to achieve a large goal. Each step enables the next.
+  - This separation of concerns makes the code much simpler to understand and maintain.
+  - So the solution is to continuously keep your code as clean and simples as it can be. Never let the rot get started.
+
+
+
+
+
+
+
+
 
 
 
