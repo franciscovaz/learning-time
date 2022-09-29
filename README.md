@@ -78,6 +78,10 @@
 * Often one refactoring leads to another that leads to the undoing of the first. Refactoring is na iteractive process full of trial and error, inevitably converging on something that we feel is worthy of a professional.
 * each os us has the responsability to leave the code a little better than we found it
 
+29/09/22 (pg. 267-284)
+ 
+ * 
+
 
 
 
