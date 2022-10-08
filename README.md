@@ -95,6 +95,19 @@
 * 
 
 
+## How to win friends and influence people
+
+**08/10/22 (pg. 0-xxviii)**
+
+* In such technical lines as engineering, about 15% of one's financial success is due to one's technical knowledge and about 85% is due to skill in human engineeting - to personality and the ability to lead people.
+
+* The person who has technical knowledge plus the ability to express idead, to assume leadership, and to arouse enthusiasm among people - that person is headed for higher earning power.
+
+* That survey revealed that health is the prime interest of adults - and that their second interest is people
+
+* We learn by doing.
+
+
 
 
 
