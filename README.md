@@ -107,6 +107,13 @@
 
 * We learn by doing.
 
+**10/10/22 (pg. 3-21)**
+
+* An animal rewarded for good behaviour will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behaviour. Later studies have shown that the same applies to humans. By criticing, we do not make lasting changes and often incurresentment.
+
+* Lets realize that criticisms are like homing pigeons. They allways return home. Lets realize that the person we are going to correct and condemn will probably justify himself or herself, and condemn us in return; or, like the gentle Taft, will say: ' I don’t see how I could have done any differently from what I have.'
+
+* Instead of condemning people, lets try to understand them….
 
 
 
