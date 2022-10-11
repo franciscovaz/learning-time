@@ -115,7 +115,13 @@
 
 * Instead of condemning people, lets try to understand them….
 
+**11/10/22 (pg. 22-33)**
 
+* We often take our spouses so much for granted that we never let them know we appreciate them.
+
+* The next time you enjoy filet mignon at the club, send word to the chef that it was excellently prepared, and when a tired salesperson shows you unusual courtesy, please mention it.
+
+* Give honest, sincere appreciation. Be 'hearty in your approbation and lavish in your praise', and people will cherish your words and treasure them and repeat them over a lifetime - repeat them years after you have forgotten them.
 
 
 
