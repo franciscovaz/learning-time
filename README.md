@@ -124,7 +124,17 @@
 * Give honest, sincere appreciation. Be 'hearty in your approbation and lavish in your praise', and people will cherish your words and treasure them and repeat them over a lifetime - repeat them years after you have forgotten them.
 
 
+**13/10/22 (pg. 34-54)**
 
+* So the only way on earth to influence other people is to talk about what they want and show them how to get it.
+
+* Tomorrow you may want to persuade somebody to do something. Before you speak, pause and ask yourself: 'How can I make this person want to do it?'
+
+* Mind you, I got this reduction without saying a word about what I wanted. I talked all the time about what the other person wanted and how he could get it.
+
+* … customers like to feel that they are buying - not being sold.
+
+* First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way.
 
 
 
