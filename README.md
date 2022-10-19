@@ -1,6 +1,10 @@
 # Learning Time
 
-## Clean Code Book
+Books  
+  * <a href="#clean-code-book">Clean Code Book</a>&nbsp;&nbsp;&nbsp;   
+  * <a href="#how-to-win-friends-and-influence-people-book">How to win friends and influence people Book</a>&nbsp;&nbsp;&nbsp;
+
+## Clean Code  
 
 **06/09/22 (pg. 75-92)**
 
@@ -95,7 +99,7 @@
 * 
 
 
-## How to win friends and influence people
+## How to win friends and influence people  
 
 **08/10/22 (pg. 0-xxviii)**
 
