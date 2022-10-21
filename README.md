@@ -141,5 +141,17 @@ Books
 * First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way.
 
 
+**21/10/22 (pg. 55-70)**
+
+* You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
+
+* If we want to make friends, let's put ourselfs out to do things for other people - things that require time, energy, unselfishness and thoughtfulness.
+
+* We are interested in others when they are interested in us.
+
+* If you want others to like you, if you want to develop real friendships, if you want to help others at the same time as you help yourself, keep this principle in mind: 
+  - Become genuinely interested in other people.
+
+
 
 
