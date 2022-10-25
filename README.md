@@ -153,7 +153,7 @@ Books
   - Become genuinely interested in other people.
 
 
-**26/10/22 (pg. 71-89)**
+**25/10/22 (pg. 71-79)**
 
 * Actions speak louder than words, and a smile says, 'I like you. You make me happy. I am glad to see you.' That is why dogs make such a hit. They are so glad to see us that they almost jump out of their skins. So, naturally, we are glad to see them. A baby's smile has the same effect.
 
@@ -164,4 +164,14 @@ Books
 * ... Chinese... had a proverb... 'A man without a smiling face must not open a shop.'
 
 * PRINCIPLE 2 - Smile.
+
+**26/10/22 (pg. 80-89)**
+
+* Jim Farley discovered early in life that the average person is more interested in his or her own name than in all the other names on earth put together.
+
+* This policy of remembering and honouring the names of his friends and business associates was one of the secrets of Andrew Carnegie's leadership.
+
+* Franklin D. Roosevelt knew that one of the simplest, most obvious and most important ways of gaining good will was by remembering names and making people feel important - yet how many of us do it?
+
+* PRINCIPLE 3 - Remember that a person's name is to that person the sweetest and most important sound in any language.
 
