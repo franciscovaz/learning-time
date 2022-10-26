@@ -153,5 +153,15 @@ Books
   - Become genuinely interested in other people.
 
 
+**26/10/22 (pg. 71-89)**
 
+* Actions speak louder than words, and a smile says, 'I like you. You make me happy. I am glad to see you.' That is why dogs make such a hit. They are so glad to see us that they almost jump out of their skins. So, naturally, we are glad to see them. A baby's smile has the same effect.
+
+* 'People who smile,' he said, 'tend to manage, teach and sell more effectivelly, and to raise happier children. ... That's why encouragement is a much more effective teaching device than punishment.'
+
+* people rarely succeed at anything unless they have fun doing it.
+
+* ... Chinese... had a proverb... 'A man without a smiling face must not open a shop.'
+
+* PRINCIPLE 2 - Smile.
 
